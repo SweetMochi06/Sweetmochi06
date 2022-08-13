@@ -1,16 +1,11 @@
 <h1 align="left">Hi 👋🏾, I'm Mochi 🍙🍥</h1>
 <h3 align="left">A former graphic design student who is converting to a developer 👩🏾‍💻</h3>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/danperei?1337Badge=off" alt="danperei's 42 stats" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetmochi06&label=Profile%20views&color=0e75b6&style=flat" alt="sweetmochi06" /> </p>
-
 - 🌱 I’m currently learning **C language**
-
-- 📫 How to reach me **danperei@student.42nice.fr**
 
 - 📄 Know about my experiences **I also did my studies in graphic and digital design**
 
-- ⚡ Fun fact **I had to redo a swimming pool to learn from myself**
+- ⚡ Fun fact ** I need time**
 <p align="left">
 </p>
 
