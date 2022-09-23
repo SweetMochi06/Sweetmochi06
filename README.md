@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋🏾, I'm Mochi 🍙🍥</h1>
 <h3 align="left">A former graphic design student who is converting to a developer 👩🏾‍💻</h3>
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning ** HTML, CSS, Js, Php language**
 
 - 📄 Know about my experiences **I also did my studies in graphic and digital design**
 
